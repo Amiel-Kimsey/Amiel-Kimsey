@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning node.js
 - 💞️ I’m looking to collaborate on any projects that can help me in the long run
 - 📫 How to reach me here or My Personal GMAIL: amieltheman17@gmail.com
-- 😄 Pronouns: He/She
+- 😄 Pronouns: He/HIM
 - ⚡ Fun fact: I used to be a roblox devloper who had a concurent player base of 500+
 
 <!---
